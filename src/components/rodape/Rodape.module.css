@@ -1,0 +1,12 @@
+.Rodape {
+  display: flex;
+  justify-content: center;
+  padding: 1em;
+  background-color: var(--preto);
+}
+
+.Rodape h2 {
+  font-weight: 400px;
+  font-size: 18px;
+  color: var(--branco);
+}
