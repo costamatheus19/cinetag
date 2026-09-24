@@ -4,6 +4,9 @@
     width:282px;
     background-color: var(--cinza);
 }
+.container .h2 {
+    text-decoration: none;
+}
 .favoritar {
     width: 25;
 }
